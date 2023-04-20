@@ -1,5 +1,7 @@
 <h1 align="center">Easy Shopping</h1>
 
+[Estamos ONLINE, experimente agora](https://rafaelcampos23.github.io/projeto-CSS-2-Easy-Shopping/) :earth_americas:<br>
+
 <img src="https://github.com/RafaelCampos23/projeto-CSS-2-Easy-Shopping/blob/master/img/Projeto%20CSS%20-%20Easy%20Shopping.jpg?raw=true" alt="Imagem-projeto"></img>
 
 <h2><b>Sobre o projeto:</b></h2>
